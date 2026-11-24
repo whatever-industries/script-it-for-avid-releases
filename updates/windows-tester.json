@@ -1,9 +1,9 @@
 {
-  "version": "0.1.3",
+  "version": "0.1.4",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/whatever-industries/script-it-for-avid-releases/releases/download/windows-tester-v0.1.3/Script-It-for-Avid-Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdm1PM2lnb0xFclpmNUVVLzhuN2hWUFZ4WGUxc2FoUHBDOG1LdmY3WFp1cHlmU0ZrY09UbkZKeFR0Y2Q1bzhPS1d6Zk9Xdzdwb3dDUUZ6Ym5rQ3RPZS91UXVRVWxKVmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYxNDIwCWZpbGU6U2NyaXB0LUl0LWZvci1BdmlkLVNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4zCjhCTXRBNUhqWEcrTU9oeGEyRHR2eHpmYWxIU3dhOFdDQmRhMmJPTmcvTFo1S2RnZ2RST1Y1TnIrQ0grUmh4SFlkZ1BuM0UrTGtPaXBVOFJsb2Q5OUJ3PT0K"
+      "url": "https://github.com/whatever-industries/script-it-for-avid-releases/releases/download/windows-tester-v0.1.4/Script-It-for-Avid-Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdm1PM2lnb0xFcmZuQ3BCRmw5NjZRV2JsRmlUWVM3c2UrOUludjNPRDhRNzJUTUJFcGJTMVZETkpsWnA5OUNFdncxSEhKd3ExVjRNQzcwRjdNK0Jac3gxMzBncTRsL1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYxNTY0CWZpbGU6U2NyaXB0LUl0LWZvci1BdmlkLVNldHVwLmV4ZQl2ZXJzaW9uOjAuMS40Cmo4U0ZYTGpVVE5Md1VuSHRpekdoSTQ5cWRwZjBjcXBNQWtQWEVPNDJPU1NNdHdVeEl0eE9SOHd1dTVXV1piUHo0cnNQL1gvTURnaWl6dmZuNUViaUNBPT0K"
     }
   }
 }
