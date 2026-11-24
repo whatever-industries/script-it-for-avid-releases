@@ -1,17 +1,17 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/whatever-industries/script-it-for-avid-releases/releases/download/windows-tester-v0.1.5/Script-It-for-Avid-Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdm1PM2lnb0xFcmJrWkZtSGdYN1RUdXo2R2NLQmJ6M1ZEcnpocGE2YjBJdENGYW1YbmV1SE52ZnhJaWRNaDI5U1EvN1pCTWEydkFSaXZvTTV3NUduR2VrUXlxM1J3dHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYyNzA5CWZpbGU6U2NyaXB0LUl0LWZvci1BdmlkLVNldHVwLmV4ZQl2ZXJzaW9uOjAuMS41CjJsaHJ1Y2ZZMFN3a2FlaU8zUEx4UHRDUzJMMVp0VGpMYlJuTlVoMEI2b0N1dWg0TEtWUTFBYjVIM2hCdkxPeGVLVy9PMmw5SEg2bGFTUERqb1hKVkNRPT0K"
+      "url": "https://github.com/whatever-industries/script-it-for-avid-releases/releases/download/windows-tester-v0.1.6/Script-It-for-Avid-Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdm1PM2lnb0xFclcxbEtmYSs2Z2dLS2tKWmd3YnBqaTROeGtxdUZtUm9OUHBSV0tqWXhqakZUNllHWlMvSVhCdjhNL29DdmF2REh6OFJMRkFWMVJzRzU1RFJoMGNBVVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYzMDEyCWZpbGU6U2NyaXB0LUl0LWZvci1BdmlkLVNldHVwLmV4ZQl2ZXJzaW9uOjAuMS42CnFhRlRhUVpJNjA4RlJpSThheGQ5Rnc5T2s5RWtWWEM5eTVyNnpSbWhGcU1zZVQ2Mm5haWd1NzFKejI2UW5Kb1RDUDVJcm5sLzJzUk9oaGVKdGZHZEFBPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://github.com/whatever-industries/script-it-for-avid-releases/releases/download/windows-tester-v0.1.5/Script-It-for-Avid-macOS-Apple-Silicon.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMDRQVk16c2NoNmxRbjBNOEZTT1hQbW9NbUNlUk9yY3FZdkpQWTNFdUxYQ3ZSazNac1V3NTVWbVhaMVVzb3pjRnBCQU1CN1Z4WTJid1VNZTJtSEllVGpnUVp6eWFUZHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYyNzE3CWZpbGU6U2NyaXB0LUl0LWZvci1BdmlkLW1hY09TLUFwcGxlLVNpbGljb24uYXBwLnRhci5negl2ZXJzaW9uOjAuMS41CmlzUkhQa3M1SzQwSWdVbU51YkJNWGxSNzkrVVMzQnF5dm14WGp1WVpJSE5wZ2NsVlUvRnF5citIVWQwQVROcFUwWFBFcDhsbDc3M21GSC8vTUdCQ0FnPT0K"
+      "url": "https://github.com/whatever-industries/script-it-for-avid-releases/releases/download/windows-tester-v0.1.6/Script-It-for-Avid-macOS-Apple-Silicon.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMDRQVk16c2NoNnM1aWx5WnkrK24wTEp1L2ltcE8wQmNURVozRUtxVys1VUhRMFJoem4ra294Nzh0MlhvTmYrTFZVeTJJM1M2d20wVERoUVFZa3Z4SVhrUFJPSWRWVWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYzMDI4CWZpbGU6U2NyaXB0LUl0LWZvci1BdmlkLW1hY09TLUFwcGxlLVNpbGljb24uYXBwLnRhci5negl2ZXJzaW9uOjAuMS42ClFoUWJyaTBRczBVREtDQkNHaTdaYUVJWHp1TmtIeldYNko5L1MyanRtU0J0WVE1cTFmNEN6NlF3Um5QT1lxQUtDNDkrNE9md2ZscWJqRjFPeTFnWkJBPT0K"
     },
     "darwin-x86_64": {
-      "url": "https://github.com/whatever-industries/script-it-for-avid-releases/releases/download/windows-tester-v0.1.5/Script-It-for-Avid-macOS-Intel.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMDRQVk16c2NoNmpRWTJKQlpQM2lGcVlEZjJRcHRDYmpUbktTUG53Qy91d2VHVnlBWVJWdXMyK1JISWt6VmZkMGc5dXBuM3NpN2NUeGJ0WDBRMzhlK1RUVVZJT2o1OFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYyNzcyCWZpbGU6U2NyaXB0LUl0LWZvci1BdmlkLW1hY09TLUludGVsLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNQpwQjJ4VDFYZTRwU3R3SWdZVlNUQmU4Z0E2TDdJcDBta05qOFVIRnhVci9jSmRRRXh3OEE0cGNMSHRtank2eFp0d283dkVobzk4N2JzKzFucFNpNUFEQT09Cg=="
+      "url": "https://github.com/whatever-industries/script-it-for-avid-releases/releases/download/windows-tester-v0.1.6/Script-It-for-Avid-macOS-Intel.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMDRQVk16c2NoNm5PbkdURUpFRjFzMkRPQ2hJWE9pQVNydmRZQTF0R0M5OXYvK214c2pLeEhoNDJMamhRejhnU0JUUVBicTk1Z3RtV1UwYi9GZGZDL2NidGhTcjIvUHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYyOTc5CWZpbGU6U2NyaXB0LUl0LWZvci1BdmlkLW1hY09TLUludGVsLmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNgphTFFOUXhKS1doS0VwckRDdGFTbzZOUFUxU1FHVDVCRmhTbDVwTG1YYnJUQ3ZXa0llbDZETXhjNSt2azhNQzBXVkxRb3VQckhLTG05dmwvZ3R2c2RBZz09Cg=="
     }
   }
 }
